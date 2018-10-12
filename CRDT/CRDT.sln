@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRDT", "CRDT\CRDT.csproj", "{14AB31F1-A1F2-481D-B1F0-EC21045CF780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRDT.Test", "CRDT.Test\CRDT.Test.csproj", "{3AB8D2F3-D28F-4862-80E3-1A17DAF336CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRDT.Playground", "CRDT.Playground\CRDT.Playground.csproj", "{B6A81044-0D05-4A0A-89FF-7DD835B53F56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14AB31F1-A1F2-481D-B1F0-EC21045CF780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14AB31F1-A1F2-481D-B1F0-EC21045CF780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14AB31F1-A1F2-481D-B1F0-EC21045CF780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14AB31F1-A1F2-481D-B1F0-EC21045CF780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB8D2F3-D28F-4862-80E3-1A17DAF336CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB8D2F3-D28F-4862-80E3-1A17DAF336CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB8D2F3-D28F-4862-80E3-1A17DAF336CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB8D2F3-D28F-4862-80E3-1A17DAF336CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A81044-0D05-4A0A-89FF-7DD835B53F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A81044-0D05-4A0A-89FF-7DD835B53F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A81044-0D05-4A0A-89FF-7DD835B53F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A81044-0D05-4A0A-89FF-7DD835B53F56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3EB5060-C6D4-4FCB-A14D-0F89723510F9}
+	EndGlobalSection
+EndGlobal
